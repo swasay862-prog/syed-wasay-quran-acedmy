@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>داخلہ فارم - Syed Wasay Quran Academy</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-50 text-gray-800 font-[Noto Nastaliq Urdu]">
+    <header class="bg-green-700 text-white py-4 shadow">
+        <div class="container mx-auto px-4 flex justify-between items-center">
+            <h1 class="text-2xl font-bold">Syed Wasay Quran Academy</h1>
+            <nav class="space-x-4 space-x-reverse">
+                <a href="home.html" class="hover:underline">ہوم</a>
+                <a href="about.html" class="hover:underline">ہمارے بارے میں</a>
+                <a href="noorani qaidah.html" class="hover:underline">نورانی قاعدہ</a>
+                <a href="hifz.html" class="hover:underline">حفظ</a>
+                <a href="tilawat.html" class="hover:underline">تلاوت</a>
+                <a href="form.html" class="hover:underline font-bold">فارم</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="text-center py-12 bg-gradient-to-r from-green-600 to-emerald-700 text-white">
+        <h2 class="text-4xl font-bold mb-2">آن لائن داخلہ فارم</h2>
+        <p class="text-lg">اپنے مطلوبہ کورس کے لیے فارم پُر کریں 📖</p>
+    </section>
+
+    <section class="container mx-auto px-4 py-12">
+        <form class="bg-white shadow-lg rounded-lg p-8 max-w-2xl mx-auto">
+            <div class="mb-4">
+                <label class="block text-right font-semibold mb-2">نام:</label>
+                <input type="text" class="w-full border border-gray-300 rounded p-2" placeholder="اپنا نام درج کریں"
+                    required>
+            </div>
+
+            <div class="mb-4">
+                <label class="block text-right font-semibold mb-2">فون نمبر:</label>
+                <input type="tel" class="w-full border border-gray-300 rounded p-2" placeholder="اپنا فون نمبر درج کریں"
+                    required>
+            </div>
+
+            <div class="mb-4">
+                <label class="block text-right font-semibold mb-2">ای میل (اختیاری):</label>
+                <input type="email" class="w-full border border-gray-300 rounded p-2"
+                    placeholder="اپنی ای میل درج کریں">
+            </div>
+
+            <div class="mb-4">
+                <label class="block text-right font-semibold mb-2">اپنا واٹس ایپ نمبر:</label>
+                <input type="tel" class="w-full border border-gray-300 rounded p-2"
+                    placeholder="اپنا واٹس ایپ نمبر درج کریں" required>
+            </div>
+
+            <div class="mb-4">
+                <label class="block text-right font-semibold mb-2">کورس منتخب کریں:</label>
+                <select class="w-full border border-gray-300 rounded p-2" required>
+                    <option value="">منتخب کریں</option>
+                    <option value="noorani">نورانی قاعدہ</option>
+                    <option value="hifz">حفظِ قرآن</option>
+                    <option value="tilawat">تلاوتِ قرآن</option>
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label class="block text-right font-semibold mb-2">پیغام:</label>
+                <textarea class="w-full border border-gray-300 rounded p-2" rows="4"
+                    placeholder="اپنا پیغام درج کریں..."></textarea>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700">جمع
+                    کروائیں</button>
+            </div>
+        </form>
+    </section>
+
+    <footer class="bg-green-700 text-white py-4 text-center">
+        <p class="mb-2">رابطہ: <strong>0332-3542681</strong></p>
+        <p>&copy; 2025 Syed Wasay Quran Academy۔ جملہ حقوق محفوظ ہیں۔</p>
+        <a href="https://wa.me/923323542681" target="_blank"
+            class="fixed bottom-6 right-6 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="w-8 h-8">
+        </a>
+    </footer>
+</body>
+
+</html>

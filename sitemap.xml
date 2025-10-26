@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/about.html</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/form.html</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/hsfz.html</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/noorani%20qaidah.html</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/noorani.html</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://swasay862-prog.github.io/syed-wasay-quran-acedmy/tiawat.html</loc>
+        <lastmod>2025-10-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
